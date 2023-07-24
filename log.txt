@@ -1,0 +1,2 @@
+июл. 22, 2023 11:43:00 PM Seminar2.Task3 writeToFile
+INFO:  Запись успешно выполнена
